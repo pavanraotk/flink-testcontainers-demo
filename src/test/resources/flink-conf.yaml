@@ -1,0 +1,3 @@
+taskmanager.numberOfTaskSlots: 2
+taskmanager.memory.flink.size: 1024mb
+taskmanager.rpc.address: jobmanager
